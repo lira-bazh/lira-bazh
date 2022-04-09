@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
 <img src="https://img.shields.io/badge/-Vue-282C34?logo=Vue.js&logoColor=41B883" alt="Vue.js logo" title="Vue.js" height="25" />
 
-### :books: Что я читаю:
+### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
 - [7 и 37 чудес света. От Эллады до Китая](https://www.goodreads.com/review/show/2286304580?utm_medium=api&utm_source=rss) by Игорь Можейко (⭐️4.05)
 <!-- GOODREADS-LIST:END -->
