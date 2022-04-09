@@ -1,6 +1,8 @@
 <h1>Привет! 👋</h1>
 Меня зовут Лира и я frontend-разработчик.
 
+Люблю инновации, создаю свой умный дом 🤖.
+
 ### :hammer_and_wrench: Я использую :
 <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="30" height="30"/>&nbsp;
@@ -14,8 +16,5 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="30" height="30"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30" height="30"/>
 </div>
-
-В свободное время я:
-играю в компьютерные и настольные игры, читаю, создаю свой умный дом
         
 <img src="https://komarev.com/ghpvc/?username=lira-bazh&style=flat&color=orange" alt=""/>
