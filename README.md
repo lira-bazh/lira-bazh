@@ -16,5 +16,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="30" height="30"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30" height="30"/>
 </div>
+
+Связаться со мной: ![https://t.me/ittriya](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
         
 <img src="https://komarev.com/ghpvc/?username=lira-bazh&style=flat&color=orange" alt=""/>
