@@ -23,6 +23,7 @@
 
 ### :books: Что я читаю:
 <!-- GOODREADS-LIST:START -->
+- [7 и 37 чудес света. От Эллады до Китая](https://www.goodreads.com/review/show/2286304580?utm_medium=api&utm_source=rss) by Игорь Можейко (⭐️4.05)
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
