@@ -17,9 +17,13 @@
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 
-### :books: Мне интересно изучить:
+### :woman_teacher: Мне интересно изучить:
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
+
+### :books: Что я читаю:
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
 <div><a href="https://t.me/ittriya"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" height="25"></a>&nbsp;
