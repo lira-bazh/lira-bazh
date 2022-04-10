@@ -28,5 +28,4 @@
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
-<div><a href="https://t.me/ittriya"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" height="25"></a>&nbsp;
-          <a href="https://discordapp.com/users/Lira#5346"><img src="https://img.shields.io/badge/-discord-red?color=white&logo=discord&logoColor=black" height="25"></a></div>
+<div><a href="https://t.me/ittriya"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" height="25"></a>&nbsp;<a href="https://discordapp.com/users/Lira#5346"><img src="https://img.shields.io/badge/-discord-red?color=white&logo=discord&logoColor=5865F2" height="25"></a>&nbsp;<a href="https://medium.com/@lira-bazh"><img src="https://img.shields.io/badge/-medium-red?color=white&logo=medium&logoColor=black" height="25"></a></div>
