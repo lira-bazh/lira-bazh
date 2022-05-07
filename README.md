@@ -24,7 +24,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [The Crystal Cave (Arthurian Saga, #1)](https://www.goodreads.com/review/show/2304740967?utm_medium=api&utm_source=rss) by Mary  Stewart
+- [The Hollow Hills (Arthurian Saga, #2)](https://www.goodreads.com/review/show/2304740999?utm_medium=api&utm_source=rss) by Mary  Stewart
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
