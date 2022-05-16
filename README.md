@@ -24,7 +24,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [The Hollow Hills (Arthurian Saga, #2)](https://www.goodreads.com/review/show/2304740999?utm_medium=api&utm_source=rss) by Mary  Stewart
+- [The Last Enchantment (Arthurian Saga, #3)](https://www.goodreads.com/review/show/4711420669?utm_medium=api&utm_source=rss) by Mary  Stewart
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
