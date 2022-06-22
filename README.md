@@ -24,7 +24,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [The Last Enchantment (Arthurian Saga, #3)](https://www.goodreads.com/review/show/4711420669?utm_medium=api&utm_source=rss) by Mary  Stewart
+- [Я, робот (Robot, #0.1)](https://www.goodreads.com/review/show/4681504871?utm_medium=api&utm_source=rss) by Isaac Asimov
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
