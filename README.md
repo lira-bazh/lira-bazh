@@ -24,7 +24,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Я, робот (Robot, #0.1)](https://www.goodreads.com/review/show/4681504871?utm_medium=api&utm_source=rss) by Isaac Asimov
+- [The Gods of Pegana](https://www.goodreads.com/review/show/2304738905?utm_medium=api&utm_source=rss) by Lord Dunsany
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
