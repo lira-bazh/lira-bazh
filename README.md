@@ -24,7 +24,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [The Gods of Pegana](https://www.goodreads.com/review/show/2304738905?utm_medium=api&utm_source=rss) by Lord Dunsany
+- [Карта культурных различий. Как люди думают, руководят и добиваются целей в международной среде](https://www.goodreads.com/review/show/4263472388?utm_medium=api&utm_source=rss) by Erin Meyer
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
