@@ -24,7 +24,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Карта культурных различий. Как люди думают, руководят и добиваются целей в международной среде](https://www.goodreads.com/review/show/4263472388?utm_medium=api&utm_source=rss) by Erin Meyer
+- [Последнее время](https://www.goodreads.com/review/show/3574303632?utm_medium=api&utm_source=rss) by Шамиль Идиатуллин
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
