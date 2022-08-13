@@ -25,7 +25,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Последнее время](https://www.goodreads.com/review/show/3574303632?utm_medium=api&utm_source=rss) by Шамиль Идиатуллин
+- [Таганский перекрёсток (La Mystique De Moscou, #1)](https://www.goodreads.com/review/show/2161535389?utm_medium=api&utm_source=rss) by Vadim Panov
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
