@@ -25,7 +25,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Таганский перекрёсток (La Mystique De Moscou, #1)](https://www.goodreads.com/review/show/2161535389?utm_medium=api&utm_source=rss) by Vadim Panov
+- [となりの怪物くん 1 [My Little Monster 1]](https://www.goodreads.com/review/show/1969181278?utm_medium=api&utm_source=rss) by Robico
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
