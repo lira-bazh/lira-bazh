@@ -25,7 +25,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [となりの怪物くん 1 [My Little Monster 1]](https://www.goodreads.com/review/show/1969181278?utm_medium=api&utm_source=rss) by Robico
+- [Foundation (Foundation, #1)](https://www.goodreads.com/review/show/4932178595?utm_medium=api&utm_source=rss) by Isaac Asimov
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
