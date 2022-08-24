@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
 <img src="https://img.shields.io/badge/-Vue-282C34?logo=Vue.js&logoColor=41B883" alt="Vue.js logo" title="Vue.js" height="25" />
 <img src="https://img.shields.io/badge/-Storybook-282C34?logo=Storybook&logoColor=ff69b4" alt="Storybook logo" title="Storybook" height="25" />
+<img src="https://img.shields.io/badge/-Vite-282C34?logo=Vite&logoColor=9994ff" alt="Vite logo" title="Vite" height="25" />
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
