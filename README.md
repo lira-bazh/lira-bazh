@@ -26,7 +26,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Foundation and Empire (Foundation #2)](https://www.goodreads.com/review/show/4953826496?utm_medium=api&utm_source=rss) by Isaac Asimov
+- [Second Foundation (Foundation #3)](https://www.goodreads.com/review/show/4953826638?utm_medium=api&utm_source=rss) by Isaac Asimov
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
