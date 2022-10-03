@@ -26,7 +26,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Second Foundation (Foundation, #3)](https://www.goodreads.com/review/show/4953826638?utm_medium=api&utm_source=rss) by Isaac Asimov
+- [Нормально о косметике](https://www.goodreads.com/review/show/2762769328?utm_medium=api&utm_source=rss) by Маша Ворслав
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
