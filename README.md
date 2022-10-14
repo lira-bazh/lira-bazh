@@ -26,7 +26,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Нормально о косметике](https://www.goodreads.com/review/show/2762769328?utm_medium=api&utm_source=rss) by Маша Ворслав
+- [The Sandman: Overture (The Sandman: Overture, #1-6)](https://www.goodreads.com/review/show/3670552810?utm_medium=api&utm_source=rss) by Neil Gaiman
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
