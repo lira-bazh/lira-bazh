@@ -26,6 +26,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Вторая жизнь Уве](https://www.goodreads.com/review/show/3687204237?utm_medium=api&utm_source=rss) by Fredrik Backman
 - [The Sandman: Overture (The Sandman: Overture, #1-6)](https://www.goodreads.com/review/show/3670552810?utm_medium=api&utm_source=rss) by Neil Gaiman
 <!-- GOODREADS-LIST:END -->
 
