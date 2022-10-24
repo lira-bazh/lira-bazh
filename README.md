@@ -26,7 +26,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Вторая жизнь Уве](https://www.goodreads.com/review/show/3687204237?utm_medium=api&utm_source=rss) by Fredrik Backman
+- [Пуговицы Наполеона. Семнадцать молекул, которые изменили мир](https://www.goodreads.com/review/show/3368545324?utm_medium=api&utm_source=rss) by Penny Le Couteur
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
