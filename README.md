@@ -26,7 +26,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Пуговицы Наполеона. Семнадцать молекул, которые изменили мир](https://www.goodreads.com/review/show/3368545324?utm_medium=api&utm_source=rss) by Penny Le Couteur
+- [Почему языки такие разные](https://www.goodreads.com/review/show/4739867595?utm_medium=api&utm_source=rss) by Владимир Плунгян
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
