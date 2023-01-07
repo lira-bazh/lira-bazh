@@ -26,7 +26,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Почему языки такие разные](https://www.goodreads.com/review/show/4739867595?utm_medium=api&utm_source=rss) by Владимир Плунгян
+- [Лисьи броды](https://www.goodreads.com/review/show/5139634361?utm_medium=api&utm_source=rss) by Anna Starobinets
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
