@@ -26,7 +26,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Лисьи броды](https://www.goodreads.com/review/show/5139634361?utm_medium=api&utm_source=rss) by Anna Starobinets
+- [Князь Света](https://www.goodreads.com/review/show/2769953541?utm_medium=api&utm_source=rss) by Roger Zelazny
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
