@@ -26,6 +26,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Saga, Book One](https://www.goodreads.com/review/show/5289989616?utm_medium=api&utm_source=rss) by Brian K. Vaughan
 - [Князь Света](https://www.goodreads.com/review/show/2769953541?utm_medium=api&utm_source=rss) by Roger Zelazny
 <!-- GOODREADS-LIST:END -->
 
