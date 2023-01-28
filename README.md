@@ -26,7 +26,6 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [The Goblin Emperor (The Goblin Emperor, #1)](https://www.goodreads.com/review/show/5295640489?utm_medium=api&utm_source=rss) by Katherine Addison
 - [Князь Света](https://www.goodreads.com/review/show/2769953541?utm_medium=api&utm_source=rss) by Roger Zelazny
 <!-- GOODREADS-LIST:END -->
 
