@@ -26,7 +26,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Князь Света](https://www.goodreads.com/review/show/2769953541?utm_medium=api&utm_source=rss) by Roger Zelazny
+- [Полное погружение](https://www.goodreads.com/review/show/871476641?utm_medium=api&utm_source=rss) by Terry Laughlin
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
