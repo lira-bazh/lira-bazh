@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Полное погружение](https://www.goodreads.com/review/show/871476641?utm_medium=api&utm_source=rss) by Terry Laughlin
+- [Болотная Тварь. Книга первая](https://www.goodreads.com/review/show/5448075279?utm_medium=api&utm_source=rss) by Alan Moore
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
