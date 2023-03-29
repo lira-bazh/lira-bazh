@@ -28,6 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Земля случайных чисел](https://www.goodreads.com/review/show/5416481493?utm_medium=api&utm_source=rss) by Tatyana Zamirovskaya
 - [Болотная Тварь. Книга первая](https://www.goodreads.com/review/show/5448075279?utm_medium=api&utm_source=rss) by Alan Moore
 <!-- GOODREADS-LIST:END -->
 
