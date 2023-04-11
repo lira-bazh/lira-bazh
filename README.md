@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Земля случайных чисел](https://www.goodreads.com/review/show/5416481493?utm_medium=api&utm_source=rss) by Tatyana Zamirovskaya
+- [Dune Messiah (Dune, #2)](https://www.goodreads.com/review/show/2896914503?utm_medium=api&utm_source=rss) by Frank Herbert
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
