@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Dune Messiah (Dune, #2)](https://www.goodreads.com/review/show/2896914503?utm_medium=api&utm_source=rss) by Frank Herbert
+- [Children of Dune (Dune, #3)](https://www.goodreads.com/review/show/5498636921?utm_medium=api&utm_source=rss) by Frank Herbert
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
