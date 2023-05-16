@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Children of Dune (Dune, #3)](https://www.goodreads.com/review/show/5498636921?utm_medium=api&utm_source=rss) by Frank Herbert
+- [Облачно, возможны косатки](https://www.goodreads.com/review/show/5192962228?utm_medium=api&utm_source=rss) by Ольга Филатова
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
