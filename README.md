@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Облачно, возможны косатки](https://www.goodreads.com/review/show/5192962228?utm_medium=api&utm_source=rss) by Ольга Филатова
+- [Harry Potter and the Methods of Rationality](https://www.goodreads.com/review/show/1263194794?utm_medium=api&utm_source=rss) by Eliezer Yudkowsky
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
