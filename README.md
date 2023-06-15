@@ -28,8 +28,8 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [The End of Eternity](https://www.goodreads.com/review/show/5621295026?utm_medium=api&utm_source=rss) by Isaac Asimov
 - [Harry Potter and the Methods of Rationality](https://www.goodreads.com/review/show/1263194794?utm_medium=api&utm_source=rss) by Eliezer Yudkowsky
+- [The End of Eternity](https://www.goodreads.com/review/show/5621295026?utm_medium=api&utm_source=rss) by Isaac Asimov
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
