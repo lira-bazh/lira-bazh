@@ -28,6 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Выбор: О свободе и внутренней силе человека (Культура)](https://www.goodreads.com/review/show/4583173522?utm_medium=api&utm_source=rss) by Edith Eger
 - [The End of Eternity](https://www.goodreads.com/review/show/5621295026?utm_medium=api&utm_source=rss) by Isaac Asimov
 <!-- GOODREADS-LIST:END -->
 
