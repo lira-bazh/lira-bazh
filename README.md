@@ -28,7 +28,6 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Веб-дизайн: книга Стива Круга или "не заставляйте меня думать"](https://www.goodreads.com/review/show/5243681169?utm_medium=api&utm_source=rss) by Steve Krug
 - [The End of Eternity](https://www.goodreads.com/review/show/5621295026?utm_medium=api&utm_source=rss) by Isaac Asimov
 <!-- GOODREADS-LIST:END -->
 
