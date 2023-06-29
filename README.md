@@ -28,6 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [The Cloudspotter&apos;s Guide](https://www.goodreads.com/review/show/1626711022?utm_medium=api&utm_source=rss) by Gavin Pretor-Pinney
 - [The End of Eternity](https://www.goodreads.com/review/show/5621295026?utm_medium=api&utm_source=rss) by Isaac Asimov
 <!-- GOODREADS-LIST:END -->
 
