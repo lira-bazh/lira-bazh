@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [The Cloudspotter&apos;s Guide](https://www.goodreads.com/review/show/1626711022?utm_medium=api&utm_source=rss) by Gavin Pretor-Pinney
+- [Посёлок](https://www.goodreads.com/review/show/5577576754?utm_medium=api&utm_source=rss) by Kir Bulychev
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
