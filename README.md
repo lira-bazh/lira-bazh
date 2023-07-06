@@ -28,7 +28,6 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Хаос. Создание новой науки](https://www.goodreads.com/review/show/3910440244?utm_medium=api&utm_source=rss) by James Gleick
 - [Посёлок](https://www.goodreads.com/review/show/5577576754?utm_medium=api&utm_source=rss) by Kir Bulychev
 <!-- GOODREADS-LIST:END -->
 
