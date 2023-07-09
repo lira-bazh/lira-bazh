@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить](https://www.goodreads.com/review/show/2378234302?utm_medium=api&utm_source=rss) by Yael Adler
+- [Половина жизни](https://www.goodreads.com/review/show/5679846472?utm_medium=api&utm_source=rss) by Kir Bulychev
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
