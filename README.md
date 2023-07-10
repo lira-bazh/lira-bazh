@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Половина жизни](https://www.goodreads.com/review/show/5679846472?utm_medium=api&utm_source=rss) by Kir Bulychev
+- [Пламя над бездной (Зоны мысли #1)](https://www.goodreads.com/review/show/5577577742?utm_medium=api&utm_source=rss) by Vernor Vinge
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
