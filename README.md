@@ -28,6 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Stories of Your Life and Others](https://www.goodreads.com/review/show/5577579728?utm_medium=api&utm_source=rss) by Ted Chiang
 - [Пламя над бездной (Зоны мысли #1)](https://www.goodreads.com/review/show/5577577742?utm_medium=api&utm_source=rss) by Vernor Vinge
 <!-- GOODREADS-LIST:END -->
 
