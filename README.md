@@ -28,7 +28,6 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Saga deluxe vol. 3](https://www.goodreads.com/review/show/5738775741?utm_medium=api&utm_source=rss) by Brian K. Vaughan
 - [Пламя над бездной (Зоны мысли #1)](https://www.goodreads.com/review/show/5577577742?utm_medium=api&utm_source=rss) by Vernor Vinge
 <!-- GOODREADS-LIST:END -->
 
