@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [The Mysterious Island (Captain Nemo, #3)](https://www.goodreads.com/review/show/1540722149?utm_medium=api&utm_source=rss) by Jules Verne
+- [Мечтают ли андроиды об электроовцах?](https://www.goodreads.com/review/show/5577540509?utm_medium=api&utm_source=rss) by Philip K. Dick
 - [Пламя над бездной (Зоны мысли #1)](https://www.goodreads.com/review/show/5577577742?utm_medium=api&utm_source=rss) by Vernor Vinge
 <!-- GOODREADS-LIST:END -->
 
