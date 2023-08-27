@@ -29,7 +29,6 @@
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
 - [Мечтают ли андроиды об электроовцах?](https://www.goodreads.com/review/show/5577540509?utm_medium=api&utm_source=rss) by Philip K. Dick
-- [Пламя над бездной (Зоны мысли #1)](https://www.goodreads.com/review/show/5577577742?utm_medium=api&utm_source=rss) by Vernor Vinge
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
