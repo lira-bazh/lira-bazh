@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Мечтают ли андроиды об электроовцах?](https://www.goodreads.com/review/show/5577540509?utm_medium=api&utm_source=rss) by Philip K. Dick
+- [Город мечтающих книг](https://www.goodreads.com/review/show/5577581360?utm_medium=api&utm_source=rss) by Walter Moers
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
