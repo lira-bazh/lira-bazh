@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Город мечтающих книг](https://www.goodreads.com/review/show/5577581360?utm_medium=api&utm_source=rss) by Walter Moers
+- [Малая Глуша](https://www.goodreads.com/review/show/5577568374?utm_medium=api&utm_source=rss) by Maria Galina
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
