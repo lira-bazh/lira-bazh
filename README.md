@@ -29,7 +29,6 @@
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
 - [A Deepness in the Sky (Zones of Thought, #2)](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
-- [Малая Глуша](https://www.goodreads.com/review/show/5577568374?utm_medium=api&utm_source=rss) by Maria Galina
 <!-- GOODREADS-LIST:END -->
 
 ### :phone: Для связи :
