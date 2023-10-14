@@ -28,7 +28,6 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Красное на красном (Отблески Этерны, #1)](https://www.goodreads.com/review/show/5875725112?utm_medium=api&utm_source=rss) by Vera Kamsha
 - [A Deepness in the Sky (Zones of Thought, #2)](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
 <!-- GOODREADS-LIST:END -->
 
