@@ -28,6 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [The Calculating Stars (Lady Astronaut Universe, #1)](https://www.goodreads.com/review/show/5762041616?utm_medium=api&utm_source=rss) by Mary Robinette Kowal
 - [A Deepness in the Sky (Zones of Thought, #2)](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
 <!-- GOODREADS-LIST:END -->
 
