@@ -28,7 +28,7 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [The Calculating Stars (Lady Astronaut Universe, #1)](https://www.goodreads.com/review/show/5762041616?utm_medium=api&utm_source=rss) by Mary Robinette Kowal
+- [Рождение сложности. Эволюционная биология сегодня: неожиданные открытия и новые вопросы](https://www.goodreads.com/review/show/5829067119?utm_medium=api&utm_source=rss) by Александр В. Марков
 - [A Deepness in the Sky (Zones of Thought, #2)](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
 <!-- GOODREADS-LIST:END -->
 
