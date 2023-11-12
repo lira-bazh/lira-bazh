@@ -28,7 +28,6 @@
 
 ### :books: Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [A Brief History of Time](https://www.goodreads.com/review/show/1178661684?utm_medium=api&utm_source=rss) by Stephen Hawking
 - [A Deepness in the Sky (Zones of Thought, #2)](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
 <!-- GOODREADS-LIST:END -->
 
