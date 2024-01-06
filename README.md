@@ -19,7 +19,6 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Задача трех тел (В память о прошлом Земли #1)](https://www.goodreads.com/review/show/4788286456?utm_medium=api&utm_source=rss) by Liu Cixin
 - [Человек в высоком замке](https://www.goodreads.com/review/show/6032839209?utm_medium=api&utm_source=rss) by Philip K. Dick
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
 - [A Deepness in the Sky (Zones of Thought, #2)](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
