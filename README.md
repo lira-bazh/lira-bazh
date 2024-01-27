@@ -19,7 +19,6 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time](https://www.goodreads.com/review/show/1904369672?utm_medium=api&utm_source=rss) by Greg Mortenson
 - [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/6136268677?utm_medium=api&utm_source=rss) by Liu Cixin
 - [Человек в высоком замке](https://www.goodreads.com/review/show/6032839209?utm_medium=api&utm_source=rss) by Philip K. Dick
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
