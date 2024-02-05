@@ -19,6 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Каирские хроники хозяйки книжного магазина](https://www.goodreads.com/review/show/5139635558?utm_medium=api&utm_source=rss) by Nadia Wassef
 - [Защита от темных искусств. Путеводитель по миру паранормальных явлений](https://www.goodreads.com/review/show/6209367662?utm_medium=api&utm_source=rss) by Александр Панчин
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
 - [A Deepness in the Sky (Zones of Thought, #2)](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
