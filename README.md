@@ -19,6 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Death's End (Remembrance of Earth’s Past, #3)](https://www.goodreads.com/review/show/6264284953?utm_medium=api&utm_source=rss) by Liu Cixin
 - [God Emperor of Dune (Dune, #4)](https://www.goodreads.com/review/show/5556926853?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Защита от темных искусств. Путеводитель по миру паранормальных явлений](https://www.goodreads.com/review/show/6209367662?utm_medium=api&utm_source=rss) by Александр Панчин
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
