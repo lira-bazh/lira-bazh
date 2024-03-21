@@ -19,6 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Князь Света](https://www.goodreads.com/review/show/2769953541?utm_medium=api&utm_source=rss) by Roger Zelazny
 - [2001: A Space Odyssey](https://www.goodreads.com/review/show/5577581661?utm_medium=api&utm_source=rss) by Arthur C. Clarke
 - [God Emperor of Dune (Dune, #4)](https://www.goodreads.com/review/show/5556926853?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
