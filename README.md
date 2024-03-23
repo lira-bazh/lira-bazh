@@ -19,7 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Князь Света](https://www.goodreads.com/review/show/2769953541?utm_medium=api&utm_source=rss) by Roger Zelazny
+- [Максимальный репост: Как соцсети заставляют нас верить фейковым новостям](https://www.goodreads.com/review/show/2844360078?utm_medium=api&utm_source=rss) by Борислав Козловский
 - [God Emperor of Dune (Dune, #4)](https://www.goodreads.com/review/show/5556926853?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
 - [A Deepness in the Sky](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
