@@ -19,6 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Дарвиния](https://www.goodreads.com/review/show/5387663752?utm_medium=api&utm_source=rss) by Robert Charles Wilson
 - [Максимальный репост: Как соцсети заставляют нас верить фейковым новостям](https://www.goodreads.com/review/show/2844360078?utm_medium=api&utm_source=rss) by Борислав Козловский
 - [God Emperor of Dune (Dune, #4)](https://www.goodreads.com/review/show/5556926853?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
