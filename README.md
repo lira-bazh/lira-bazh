@@ -19,8 +19,8 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Похороните меня за плинтусом (Похороните меня за плинтусом, #1)](https://www.goodreads.com/review/show/5940711503?utm_medium=api&utm_source=rss) by Pavel Sanaev
 - [Господство кланов](https://www.goodreads.com/review/show/2592677592?utm_medium=api&utm_source=rss) by Дем Михайлов
-- [Максимальный репост: Как соцсети заставляют нас верить фейковым новостям](https://www.goodreads.com/review/show/2844360078?utm_medium=api&utm_source=rss) by Борислав Козловский
 - [God Emperor of Dune (Dune, #4)](https://www.goodreads.com/review/show/5556926853?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
 - [A Deepness in the Sky](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
