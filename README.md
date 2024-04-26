@@ -19,7 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 2](https://www.goodreads.com/review/show/6454446855?utm_medium=api&utm_source=rss) by Mò Xiāng Tóng Xiù
+- [Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 3](https://www.goodreads.com/review/show/6459316401?utm_medium=api&utm_source=rss) by Mò Xiāng Tóng Xiù
 - [God Emperor of Dune (Dune #4)](https://www.goodreads.com/review/show/5556926853?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
 - [A Deepness in the Sky](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
