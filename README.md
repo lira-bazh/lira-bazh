@@ -19,6 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Альтист Данилов](https://www.goodreads.com/review/show/4671887162?utm_medium=api&utm_source=rss) by Vladimir Orlov
 - [God Emperor of Dune (Dune #4)](https://www.goodreads.com/review/show/5556926853?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
 - [A Deepness in the Sky](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
