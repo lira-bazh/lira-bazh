@@ -20,7 +20,6 @@
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
 - [Heretics of Dune (Dune, #5)](https://www.goodreads.com/review/show/5556927743?utm_medium=api&utm_source=rss) by Frank Herbert
-- [Хулиномика. Хулиганская экономика. Финансовые рынки для тех, кто их в гробу видал](https://www.goodreads.com/review/show/6609729954?utm_medium=api&utm_source=rss) by Алексей Марков
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
 - [A Deepness in the Sky](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
 <!-- GOODREADS-LIST:END -->
