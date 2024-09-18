@@ -19,7 +19,6 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Интимное Средневековье. Истории о страсти и целомудрии, поясах верности и приворотных снадобьях](https://www.goodreads.com/review/show/5403455444?utm_medium=api&utm_source=rss) by Rosalie Gilbert
 - [Heretics of Dune (Dune, #5)](https://www.goodreads.com/review/show/5556927743?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
 - [A Deepness in the Sky (Zones of Thought, #2)](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
