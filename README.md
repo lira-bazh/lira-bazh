@@ -19,7 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [Secret History (Mistborn, #3.5)](https://www.goodreads.com/review/show/6795186269?utm_medium=api&utm_source=rss) by Brandon Sanderson
+- [The Alloy of Law (Mistborn, #4)](https://www.goodreads.com/review/show/6795186317?utm_medium=api&utm_source=rss) by Brandon Sanderson
 - [Heretics of Dune (Dune, #5)](https://www.goodreads.com/review/show/5556927743?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
 - [A Deepness in the Sky (Zones of Thought, #2)](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
