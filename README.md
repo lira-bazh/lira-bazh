@@ -19,6 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Oathbringer (The Stormlight Archive, #3)](https://www.goodreads.com/review/show/6755492212?utm_medium=api&utm_source=rss) by Brandon Sanderson
 - [Откуда берутся дети? Краткий путеводитель по переходу из лагеря чайлдфри к тихим радостям семейственности](https://www.goodreads.com/review/show/6872839178?utm_medium=api&utm_source=rss) by Ася Казанцева
 - [Heretics of Dune (Dune, #5)](https://www.goodreads.com/review/show/5556927743?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
