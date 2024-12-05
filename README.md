@@ -19,7 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
-- [The Sunlit Man](https://www.goodreads.com/review/show/7054538617?utm_medium=api&utm_source=rss) by Brandon Sanderson
+- [The Sunlit Man (The Stormlight Archive, #4.5)](https://www.goodreads.com/review/show/7054538617?utm_medium=api&utm_source=rss) by Brandon Sanderson
 - [A Primate's Memoir: A Neuroscientist's Unconventional Life Among the Baboons](https://www.goodreads.com/review/show/4302824337?utm_medium=api&utm_source=rss) by Robert M. Sapolsky
 - [Heretics of Dune (Dune, #5)](https://www.goodreads.com/review/show/5556927743?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
