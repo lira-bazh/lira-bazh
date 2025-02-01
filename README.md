@@ -19,6 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Chapterhouse: Dune (Dune #6)](https://www.goodreads.com/review/show/6633880976?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Ninefox Gambit (The Machineries of Empire, #1)](https://www.goodreads.com/review/show/2761516530?utm_medium=api&utm_source=rss) by Yoon Ha Lee
 - [Вскрытие покажет: записки увлечённого судмедэксперта](https://www.goodreads.com/review/show/2907529672?utm_medium=api&utm_source=rss) by Alexey Reshetun
 - [Всё, что движется: Прогулки по беспокойной Вселенной. От космических орбит до квантовых полей (Russian Edition)](https://www.goodreads.com/review/show/5976955000?utm_medium=api&utm_source=rss) by Алексей Семихатов
