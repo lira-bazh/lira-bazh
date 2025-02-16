@@ -19,6 +19,7 @@
 
 ### Я читаю:
 <!-- GOODREADS-LIST:START -->
+- [Life at the Extremes](https://www.goodreads.com/review/show/2006466609?utm_medium=api&utm_source=rss) by Frances Ashcroft
 - [Chapterhouse: Dune (Dune #6)](https://www.goodreads.com/review/show/6633880976?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Вскрытие покажет: записки увлечённого судмедэксперта](https://www.goodreads.com/review/show/2907529672?utm_medium=api&utm_source=rss) by Alexey Reshetun
 - [A Deepness in the Sky (Zones of Thought, #2)](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
