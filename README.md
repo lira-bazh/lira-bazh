@@ -16,9 +16,6 @@
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=00758F" title="mysql" alt="mysql" height="25"/>&nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-
-### Я читаю:
-<!-- GOODREADS-LIST:START -->
 - [Chapterhouse: Dune (Dune #6)](https://www.goodreads.com/review/show/6633880976?utm_medium=api&utm_source=rss) by Frank Herbert
 - [Вскрытие покажет: записки увлечённого судмедэксперта](https://www.goodreads.com/review/show/2907529672?utm_medium=api&utm_source=rss) by Alexey Reshetun
 - [A Deepness in the Sky (Zones of Thought, #2)](https://www.goodreads.com/review/show/5799548113?utm_medium=api&utm_source=rss) by Vernor Vinge
